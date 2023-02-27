@@ -1,5 +1,5 @@
 ---
-title: Any Recipe
+title: "Mondstadt: Invigorating Pizza"
 date: 2019-10-19
 order: 2
 layout: recipe

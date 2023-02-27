@@ -9,11 +9,9 @@ Lisa's specialty. With an inexplicable aurora, this bolognese is so exotic that 
 
 A﻿ Genshin twist on an ordinary dish!
 
-![Mysterious Bolognese on a Plate](../uploads/dall·e-2023-02-27-18.47.11.png "Photo by DALLE-E 2")
+![Mysterious Bolognese on a Plate](../uploads/dall·e-2023-02-27-18.47.11-1-.png "Photo by DALLE-E 2")
 
 ## Ingredients
-
-
 
 ##### Dough Recipe (Part A)
 

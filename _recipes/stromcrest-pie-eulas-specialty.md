@@ -1,5 +1,5 @@
 ---
-title: Stromcrest Pie (Eula's Specialty!)
+title: "Mondstadt: Stromcrest Pie (Eula's Specialty!)"
 date: 2023-02-27T21:09:08.761Z
 order: 5
 layout: recipe

@@ -11,7 +11,7 @@ Jean's specialty. This pizza almost seems more art than food. Just one slice is 
 
 ## Ingredients
 
-##### Dough 
+#### Dough
 
 **PART A**
 
@@ -27,7 +27,7 @@ Jean's specialty. This pizza almost seems more art than food. Just one slice is 
 
 
 
-##### G﻿arlic Cheese Sauce
+#### G﻿arlic Cheese Sauce
 
 * 1 bulb Garlic
 * 1 Tbsp AP Flour
@@ -35,32 +35,28 @@ Jean's specialty. This pizza almost seems more art than food. Just one slice is 
 * 500ml Whipping Cream
 * 250ml Cheese Blend
 
-##### Tomato Sauce
+
+
+#### Tomato Sauce
 
 * 6 oz tomato paste
-
-  * 5 oz tomato sauce
-
-  * 1-2 Tbsps dried oregano to taste
-
-  * 2 Tbsps Italian seasoning
-
-  * ½ tsp garlic powder
-
-  * ½ tsp onion powder
-
-  * ½ Tbsp garlic salt
-
-  * ¼ tsp freshly ground black pepper
-
-  * 1 tsp sugar
+* 5 oz tomato sauce
+* 1-2 tbsps dried oregano to taste
+* 2 tbsps Italian seasoning
+* 1﻿/2 tsp garlic powder
+* 1﻿/2 tsp onion powder
+* 1/2 tbsp garlic salt
+* 1﻿/4 tsp freshly ground black pepper
+* 1 tsp sugar
 
 
 
-###### P﻿izza Toppings
+#### P﻿izza Toppings
 
 * 6﻿ thin slices Green Bell Pepper
 * 6﻿ slices Button Mushroom
+
+
 
 ## Method
 
@@ -82,16 +78,6 @@ Jean's specialty. This pizza almost seems more art than food. Just one slice is 
 
 ### G﻿arlic Cheese Sauce
 
-
-
-
-
-
-
-
-
-
-
 1.) In a pan, melt butter and saute garlic for 2 minutes.
 
 2.) Add in flour and cook it off for 5 minutes.
@@ -100,31 +86,15 @@ Jean's specialty. This pizza almost seems more art than food. Just one slice is 
 
 4.) Add cheese blend and cook on medium heat, constantly stirring until all of the cheese has melted.
 
-
-
 ### T﻿omato Sauce
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 1.) Mix tomato paste and sauce together in a medium size bowl until smooth.
 
 2.) Add the rest of the ingredients - oregano, Italian seasoning, garlic powder, onion powder, garlic salt, pepper and sugar - and stir until evenly distributed throughout the sauce.
 
 3.) Taste and adjust seasonings to your liking.
+
+
 
 ### Assemble Pizza!
 
@@ -134,7 +104,4 @@ Jean's specialty. This pizza almost seems more art than food. Just one slice is 
 
 3﻿.) Place sliced Green Bell Peppers around outer edge of the centre of the Pizza in a circle.
 
-4﻿.) Placed sliced Button Mushrooms around the inside of created Bell Pepper circle, creating a circle of themselves. 
-
-*
-*
+4﻿.) Placed sliced Button Mushrooms around the inside of created Bell Pepper circle, creating a circle of themselves.

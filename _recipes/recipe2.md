@@ -1,5 +1,5 @@
 ---
-title: "Mondstadt: Invigorating Pizza"
+title: "Mondstadt: Invigorating Pizza (Jean's Specialty!)"
 date: 2019-10-19
 order: 2
 layout: recipe

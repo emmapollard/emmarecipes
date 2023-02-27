@@ -1,46 +1,51 @@
 ---
+title: "Mondstadt: Mysterious Bolognese (Lisa's Specialty!)"
+date: 2023-02-27T18:31:55.049Z
+order: 1
 layout: recipe
-title: Some recipe
-date: 2022-10-19
 published: true
-order: 2
 ---
-Aute velit minim ad ut deserunt ipsum eiusmod. Laborum nisi ex qui exercitation elit dolor consectetur. Ullamco ex eiusmod ad dolor nisi adipisicing est esse. Veniam nostrud do laboris id est nulla qui nulla. Lorem velit nulla in tempor nisi laboris. Dolor culpa mollit elit anim minim Lorem.
+Lisa's specialty. With an inexplicable aurora, this bolognese is so exotic that you can never have enough. Did she actually enchant it with some kind of magic?
 
-![Delicious Plate of Toast, Blueberries and Bananas, covered in sticky maple syrup](../uploads/joseph-gonzalez-zcUgjyqEwe8-unsplash.jpg "Photo by Joseph Smart")
+A﻿ Genshin twist on an ordinary dish!
 
+![Mysterious Bolognese on a Plate](../uploads/dall·e-2023-02-27-18.47.11.png "Photo by DALLE-E 2")
 
 ## Ingredients
 
-- 1 kg something or something else
-- 160 ml something or something else
-- ½ large something or something else
-- 450 grams something or something else
-- 1 glass white wine 
-- 350 grams fresh something or something else,
-- 1400 grams something or something else, drained of some of their juice and chopped
-- teaspoon ground something or something else
-- teaspoon ground something or something else
-- salt and black pepper
-- 1 teaspoon oregano
-- 25 grams grated Parmesan, Kefalotiri, or Gruyere cheese
-- some chopped something
-- 80 grams something
-- 80 grams something else
-- 600 ml warm something
-- 2 egg yolks
-- 4 tablespoons toasted something or something else
 
+
+##### Dough Recipe (Part A)
+
+* 2 Medium Eggs
+* 1.5 Cups Bread Flour
+
+##### Cacio E Pepe (Part B)
+
+* 1 Cup Pecorino Romano 
+* 1/2 Cup Hot Water
+
+##### (Part C)
+
+* 1 Tbsp Pink Peppercorns
+* 250g Spaghetti
+
+##### (Part D)
+
+* 1/2 Red Onion
+* Oil
+* Salt and Pepper
 
 ## Method
 
-Occaecat nulla proident do aute non amet cillum et enim. Non in commodo consequat minim. Id excepteur adipisicing cillum minim Lorem anim est eiusmod incididunt. Consectetur nostrud pariatur amet enim dolore labore deserunt tempor magna fugiat dolor veniam anim. Ut ex sit ullamco ullamco magna aliqua cupidatat ullamco adipisicing tempor. Cupidatat fugiat in consectetur quis sunt laboris qui veniam sunt id deserunt minim.
+1.) Sift bread flour and make a well. Place 2 beaten medium eggs into the well and slowly incorporate the flour until a dough forms. Knead the dough for 15 minutes by hand, then wrap in cling film and let it rest at room temperature for 2 hours. 
 
-Laborum dolore minim veniam excepteur aliquip aliqua mollit minim id exercitation ipsum. Quis sint qui enim labore amet irure culpa eiusmod ullamco amet minim aliquip ut eiusmod. Qui Lorem dolore labore esse reprehenderit cillum reprehenderit.
+2.) After 2 hours, divide the dough in half and roll out with a rolling pin. Pass the dough through a pasta machine and cut it with a spaghetti cutter. 
 
-Do elit laboris irure pariatur nostrud officia. Proident anim amet officia irure occaecat aliqua nisi ex. Non minim excepteur consectetur mollit aliquip ad occaecat est velit. Enim laboris mollit reprehenderit cupidatat voluptate ipsum aliquip nostrud deserunt amet. Qui aliquip deserunt commodo pariatur qui anim. Aliquip excepteur reprehenderit in sint enim Lorem non Lorem pariatur adipisicing dolore ullamco incididunt ullamco.
+3.) Toast pink peppercorns in a pan for 1 minute, then add 1/2 cup of pasta water. 
 
-Cupidatat nostrud excepteur sunt exercitation excepteur dolor adipisicing. Aliqua et commodo do duis fugiat non consequat duis. Esse velit velit sit aute voluptate exercitation cupidatat velit cupidatat duis culpa non duis deserunt. Non voluptate et ea incididunt elit irure eu irure ullamco ea Lorem tempor. Veniam sint irure reprehenderit mollit nisi amet fugiat nulla duis. Nulla nostrud sint reprehenderit est enim dolore ipsum. Sint eu anim excepteur consectetur ipsum.
+4.) Meanwhile, cook fresh spaghetti in boiling water for 1 minute. Toss the spaghetti with the peppercorns and mix in PART B. Continue to toss until desired consistency is achieved, approximately 2-3 minutes. 
 
-- Serves: 6
-- Preparation time: 1 hour
+5.) Saute red onions with salt and pepper on high heat. 
+
+6.) NOW LET'S PLATE!

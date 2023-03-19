@@ -17,9 +17,9 @@ html {
 /* the rest is up to you */
 
 body{
-  font-family:'font-family: 'Poppins', sans-serif;}
+  font-family:'Poppins', sans-serif;}
 
-body{ background-color: rgb(197, 122, 122);}
+body{ background-color: rgb(255, 211, 190);}
 
 
 h1{color:rgb(3, 3, 3);
@@ -29,7 +29,7 @@ h1{color:rgb(3, 3, 3);
   
 h2{color:rgb(59, 11, 10);
 margin:0 0 12px 0;
-font-family: font-family: 'Poppins', sans-serif;}
+font-family:'Poppins', sans-serif;}
 
 p{color:black(59,57,57);
 margin-bottom: 1em;}

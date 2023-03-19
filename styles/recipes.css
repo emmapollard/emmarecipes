@@ -36,12 +36,20 @@ margin-bottom: 1em;}
 
 
 main{
-  width: 60%;
+  width: 50%;
   max-width: 850px;
-  border:1px solid purple;
-  padding: 0 12px 0 12px;
+  overflow: auto;
+  border:1px solid rgb(77, 35, 35);
   margin:0 auto;
-background-color: white;}    
+  background-color: rgb(251, 221, 166);
+  padding: 12px;
+  padding-bottom: 3%;
+  }    
+/* columns: 2;
+column-rule: 1px solid blue;} */
+ul{margin-left: 20px;
+  line-height: 2;
+}    
 
   img{
     width:50%;

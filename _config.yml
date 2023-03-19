@@ -1,6 +1,6 @@
 
 # SITE CONFIGURATION
-url: "https://genshinimpactcookbook.netlify.app"   #change this to yours
+url: "genshinimpactcookbook.netlify.app"   #change this to yours
 repository: emmapollard/emmarecipes
 title: The Genshin Impact Cookbook
 recipemenu: false # you can change to true and a menu of all recipes will appear
